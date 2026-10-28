@@ -1,0 +1,25 @@
+Project Screenshots
+Nandha Engineering College (Autonomous) - Admission Assistance & Visitor Queue System
+Captured: 2026-09-18  |  Live app: http://localhost:5173
+
+Fig6_Receptionist_and_Visitor_Management_Dashboard.png
+    Reception Desk - visitor registration form, active visitors and all queues.
+
+Fig7_Staff_Queue_Interface.png
+    Staff Queue Console - live queue per stage with Call Next / Complete Stage /
+    Hold / Skip / Reassign actions.
+
+Fig8_Admin_Dashboard_and_Analytics.png
+    Admin Dashboard - total today, waiting / serving / completed counters and
+    by-department analytics.
+
+Fig9_AI_Based_WhatsApp_Admission_Assistance_Output.png
+    Parent / student AI chat: document checklist, live queue position and
+    hostel answer, all from the official Nandha knowledge base.
+
+Fig10_Reception_Visitor_QR_Code_Scan_to_Chat.png
+    Reception Desk QR: scanning opens the visitor's AI chat + live queue
+    tracker on a phone (same Wi-Fi).
+
+Demo data used: V121 Raj Kumar (ECE) and V122-V127 across CSE / ECE / EEE /
+MECH / MBA so the dashboards show multiple departments.

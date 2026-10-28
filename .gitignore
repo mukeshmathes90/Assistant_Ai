@@ -1,0 +1,17 @@
+# Secrets - never commit these
+.env
+backend/.env
+
+# Python
+venv/
+venv_broken/
+__pycache__/
+*.pyc
+
+# Local data and logs
+*.db
+*.log
+
+# Frontend
+node_modules/
+frontend/dist/

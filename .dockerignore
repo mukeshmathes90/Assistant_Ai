@@ -1,0 +1,10 @@
+**/.env
+**/venv
+**/venv_broken
+**/node_modules
+**/__pycache__
+**/*.db
+**/*.log
+frontend/dist
+Project_Screenshots
+*.pdf
